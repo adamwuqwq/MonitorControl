@@ -1,0 +1,8 @@
+/* General application description */
+"ApplicationDescription" = "MonitorControlは、モニターの明るさや音量をコントロールすることができるアプリです。";
+
+/* Sofware update deny consequences */
+"SoftwareUpdateDenyConsequences" = "これらの接続を拒否すると、新バージョンやセキュリティアップデートが通知されなくなります。マルウェアの攻撃から守るために、セキュリティアップデートは重要です。";
+
+/* Software update purpose */
+"SoftwareUpdatePurpose" = "MonitorControlは、新バージョンとセキュリティアップデートをチェックします。";
